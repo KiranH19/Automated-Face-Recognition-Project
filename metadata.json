@@ -1,0 +1,7 @@
+{
+  "name": "Face Recognition Attendance System",
+  "description": "Smart facial recognition-based attendance management system with student registration, model training, live webcam capture, and CSV reporting.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
